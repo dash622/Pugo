@@ -1,0 +1,9 @@
+name = "pugo"
+compatibility_date = "2025-09-11"
+
+[build]
+command = "chmod a+x build.sh && bash ./build.sh"
+
+[assets]
+directory = "./public"
+not_found_handling = "404-page"
