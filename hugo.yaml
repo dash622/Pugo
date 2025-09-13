@@ -8,15 +8,14 @@ params:
     enabled: true
     title: "Dash Ivey" # optional default will be site title
     subtitle: "Cybersecurity Student and IT Professional"
-    imageUrl: "<image link>" # optional
-    imageTitle: "<title of image as alt>" # optional
+    imageUrl: "/avatarpug.jpg" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
-      - name: Archive
-        url: "/archive"
-      - name: Github
-        url: "https://github.com/"
+      - name: Projects
+        url: "/projects"
+      - name: Blog
+        url: "/blog"
 
   socialIcons: # optional
     - name: "<platform>"
