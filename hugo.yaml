@@ -22,8 +22,8 @@ params:
   socialIcons: # optional
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/dashivey/"
-    - name: "Woof"
-      url: "<link2>"
+    - name: "lol"
+      url: "https://youtu.be/i0p1bmr0EmE?si=Ap4JTYr2tobM0jgF&t=48"
       
   assets:
     favicon: "/favicon.ico"
