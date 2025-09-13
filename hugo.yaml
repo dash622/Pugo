@@ -20,9 +20,9 @@ params:
         url: "/blog"
 
   socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/dashivey/"
+    - name: "Woof"
       url: "<link2>"
       
   assets:
