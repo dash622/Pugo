@@ -12,6 +12,8 @@ params:
     imageWidth: 240 # custom size
     imageHeight: 240 # custom size
     buttons:
+      - name: About
+        url: "/About"
       - name: Projects
         url: "/projects"
       - name: Blog
