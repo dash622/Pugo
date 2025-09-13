@@ -2,7 +2,7 @@
 title = "About"
 +++
 
-Hello, I'm **Dash Ivey**. I live in **Atlanta, Georgia**, and I'm currently working as an IT Techician while also pursuing a degree in **Cybersecurity** through **Western Governors University**. This website is meant to showcase my home labs and projects as I learn new skills. I currently have an interest in SIEMs, virtualization, and Active Directory. 
+Hello, I'm **Dash Ivey**. I live in **Atlanta, Georgia**, and I'm currently working as an IT Technician while also pursuing a degree in **Cybersecurity** through **Western Governors University**. This website is meant to showcase my home labs and projects as I learn new skills. I currently have an interest in SIEMs, virtualization, and Active Directory. 
 
 My first experience with infrastructure was creating Minecraft servers. I learned how to configure plugins, set up domains, and manage servers. Since this was something I enjoyed, I decided that I wanted to do this as a career. Since graduating high school, I have previously worked at a law firm as a help desk technician doing network troubleshooting, data destruction, Windows Active Directory, and more. Despite getting this experience, I wanted to learn more on cybersecurity.  
 
@@ -12,6 +12,7 @@ My first experience with infrastructure was creating Minecraft servers. I learne
 - **CompTIA Network+**
 - **Palo Alto Cybersecurity Specialist**
 - **CompTIA A+**
+- **ITIL Foundations**
 
 
 ---
