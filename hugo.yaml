@@ -9,8 +9,8 @@ params:
     title: "Dash Ivey" # optional default will be site title
     subtitle: "Cybersecurity Student and IT Professional"
     imageUrl: "/avatarpug.jpg" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    imageWidth: 240 # custom size
+    imageHeight: 240 # custom size
     buttons:
       - name: Projects
         url: "/projects"
